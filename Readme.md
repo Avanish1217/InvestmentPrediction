@@ -1,1 +1,1 @@
-jvu
+This projesct is create for predict the stock market insvestment
